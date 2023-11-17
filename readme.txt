@@ -1,6 +1,6 @@
 === Bra Size Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: bra size calculator, measure bra size, find my bra size, bra measurement guide, bra fitting calculator, calculate cup size, bra size estimator, correct bra size, bra size chart, lingerie size calculator
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
