@@ -1,4 +1,4 @@
-# Bra Size Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Bra Size Calculator Widget for WordPress
 
 To get a bra that fits properly, it is vital to measure your bra size. This free calculator will tell you how to measure your breast size.
 
