@@ -7,7 +7,7 @@ To get a bra that fits properly, it is vital to measure your bra size. This free
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/bra-size-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /bra-size-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Bra Size Calculator](https://www.calculator.io/bra-size-calculator/ "Bra Size Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
