@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Bra Size Calculator by www.calculator.io
+Plugin Name: CI Bra size calculator
 Plugin URI: https://www.calculator.io/bra-size-calculator/
 Description: To get a bra that fits properly, it is vital to measure your bra size. This free calculator will tell you how to measure your breast size.
 Version: 1.0.0
