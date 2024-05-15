@@ -3,7 +3,6 @@
 To get a bra that fits properly, it is vital to measure your bra size. This free calculator will tell you how to measure your breast size.
 
 ![Bra Size Calculator Input Form](/assets/images/screenshot-1.png "Bra Size Calculator Input Form")
-![Bra Size Calculator Calculation Results](/assets/images/screenshot-2.png "Bra Size Calculator Calculation Results")
 
 ## Installation
 

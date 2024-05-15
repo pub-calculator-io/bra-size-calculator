@@ -86,8 +86,8 @@ const bustSizesJp = [
 ];
 const locations = {
   "Europe (EU) & International (Int)": "eu",
-  "USA (US)": "us",
-  "UK (UK)": "uk",
+  "United States (US)": "us",
+  "United Kingdom (UK)": "uk",
   "France (FR) & Spain (ES) & Belgium (BE)": "fr",
   "Italy (IT)": "it",
   "Australia (AU) & New Zealand (NZ)": "au",

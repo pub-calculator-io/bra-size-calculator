@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Bra Size Calcul
 == Screenshots ==
 
 1. The Bra Size Calculator Input Form.
-2. The Bra Size Calculator Calculation Results.
 
 == Installation ==
 
